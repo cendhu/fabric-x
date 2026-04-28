@@ -8,3 +8,5 @@
 
 # python
 .venv
+# Local agent worktrees
+.worktrees/
